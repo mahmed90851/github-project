@@ -1,4 +1,3 @@
 # github-project
-## examples for week 1
-
-This repo contains some examples
+this is a project for intellij
+this should be pretty fun 
